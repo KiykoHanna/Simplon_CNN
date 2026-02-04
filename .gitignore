@@ -8,6 +8,7 @@ __pycache__/
 
 # prive
 dataset/
+datasets/
 logs/
 
 # Distribution / packaging
